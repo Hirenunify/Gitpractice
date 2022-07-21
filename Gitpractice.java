@@ -6,5 +6,6 @@ public class Gitpractice {
         int b = 350;
 
         System.out.println(a+b);
+        System.out.println(a-b);
     }
 }
